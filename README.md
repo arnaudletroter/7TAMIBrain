@@ -2,7 +2,7 @@
 
 **A High-Resolution and High-Constrast 7T MRI template to segment Deep Grey Nuclei (on MP2rage T1map).**
 
-The 7TAMIbrain dataset [Girard et al., 2021] (BIDS formatted, 60 qT1 MRI anonymized and cropped + DGN mask of segmentation) is publicly available on the OpenNeuro platform (Dataset ds003967 , url: https://openneuro.org/datasets/ds003967/versions/1.0.0)
+The 7TAMIbrain dataset [Girard et al., 2021] (BIDS formatted, 60 qT1 MRI anonymized and cropped + DGN mask of segmentation) is publicly available on the OpenNeuro platform (Dataset ds003967, https://openneuro.org/datasets/ds003967/versions/1.0.0)
 
 # How to use (command lines using ants Library)
 
