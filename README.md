@@ -6,4 +6,4 @@ Brun, G., Testud, B., Girard, O. M., Lehmann, P., de Rochefort, L., Besson, P., 
 Data/code availability statement
 The full 7TAMIbrain [Girard et al., 2021] dataset (BIDS formatted) is publicly available on the OpenNeuro platform (Dataset ds003967)
 
-![Viewer fsleyes](fsleyes.png?raw=true "FSLEYES")
+![Viewer fsleyes](fsleyes_view.png?raw=true "FSLEYES")
