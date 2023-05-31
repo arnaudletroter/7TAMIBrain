@@ -8,7 +8,7 @@ The 7TAMIbrain dataset [Girard et al., 2021] (BIDS formatted, 60 qT1 MRI anonymi
 
 **Registration qT1 (7TAMIbrain template) to qT1 map (subject):**
 
-antsRegistrationSyN.sh -d 3 -m 7TAMI_qT1_100.nii.gz -f T1map_subj.nii.gz -o 7TAMI_2_subject_SyN
+antsRegistrationSyN.sh -d 3 -m 7TAMI_T1w_30.nii.gz -f T1map_subj.nii.gz -o 7TAMI_2_subject_SyN
 
 **Warp 7TAMIbrain atlas to subject space:**
 
